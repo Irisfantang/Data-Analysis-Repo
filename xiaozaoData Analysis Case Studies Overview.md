@@ -4,7 +4,7 @@ Xiaozao is an online educational platform for various data-related courses start
 - Case study 1: MySQL commands
     - How to use SQL to query the basic information from a database that stores APP customer information in 3 different tables?
 - Case study 2: Tableau Public dashboard
-    - How to use Tableau to interpret Airbnb - a platform is known for providing a wide range of lodging options, from unique stays in treehouses and yurts to luxury villas and urban apartments that connect people looking to rent out their homes or spare rooms with guests seeking accommodations while travelling?
+    - How to use Tableau to interpret Airbnb - a platform known for providing a wide range of lodging options, from unique stays in treehouses and yurts to luxury villas and urban apartments that connect people looking to rent out their homes or spare rooms with guests seeking accommodations while travelling?
 - Case study 3: Tableau Public dashboard
     - How to use Tableau to interpret Jing Dong - one of China's largest e-commerce platforms and a leading online retail giant?
 - Case study 4: Python data cleaning and visualisation
